@@ -1,0 +1,3 @@
+Journal = Title: Jatuh Bangun Seorang Fullstack, Author: Kang Udin, Total Page: 89,
+Biography = Title: Orang Dibalik Apple, Author: Mas Bejo, Total Page: 327, Figure: Steve Wozniak,
+History = Title: Awal Peradaban Callback, Author: Bang Togar, Total Page: 127, Century: Middle Earth,
